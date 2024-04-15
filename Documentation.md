@@ -289,9 +289,9 @@ _To ensure that it functions with current desktop web browsers, the website will
 
 This agreement is based on the following assumptions:
 
-Assumptions:
+## Assumptions:
 
-1\. \*\*Stakeholder Availability:\*\*
+***1***\. _Stakeholder Availability:_
 
 \- Assumption: Stakeholders will be available for regular feedback and approval throughout the project.
 
@@ -299,7 +299,7 @@ Assumptions:
 
   
 
-2\. \*\*Content Availability:\*\*
+***2***\. _Content Availability:_
 
 \- Assumption: Content, including written copy and multimedia assets, will be provided by NurtureHeal in a timely manner.
 
@@ -307,7 +307,7 @@ Assumptions:
 
   
 
-3\. \*\*Technical Constraints:\*\*
+***3***\. _Technical Constraints:_
 
 \- Assumption: The hosting environment will meet the technical requirements for WordPress installation and development.
 
@@ -315,21 +315,21 @@ Assumptions:
 
   
 
-\*\*Change Control Procedure:\*\*
+ ## Change Control Procedure:
 
   
 
-1\. \*\*Change Request Submission:\*\*
+***1***\. _Change Request Submission:_
 
 \- Any proposed changes to the project scope, timeline, or deliverables must be submitted as a formal change request.
 
   
 
-2\. \*\*Assessment and Evaluation:\*\*
+***2***\. _Assessment and Evaluation:_
 
 \- The project manager will assess the impact of the proposed change on the project objectives, schedule, and budget.
 
-3\. \*\*Approval Process:\*\*
+***3***\. _Approval Process:_
 
 \- Change requests will be reviewed by the project stakeholders to determine approval or rejection.
 
@@ -337,19 +337,19 @@ Assumptions:
 
   
 
-4\. \*\*Documentation:\*\*
+***4***\. _Documentation:_
 
 \- All approved changes will be documented, including the rationale behind the change, the impact on project parameters, and any associated adjustments to the project plan.
 
   
 
-5\. \*\*Communication:\*\*
+***5***\. _Communication:_
 
 \- Stakeholders will be kept informed of the status of change requests and any resulting adjustments to project timelines or deliverables.
 
   
 
-6\. \*\*Continuous Monitoring:\*\*
+***6***\. _Continuous Monitoring:_
 
 \- The project team will continuously monitor project progress and assess the need for any additional changes or adjustments as the project evolves.
 
