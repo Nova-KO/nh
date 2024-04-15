@@ -291,27 +291,27 @@ This agreement is based on the following assumptions:
 
 ## Assumptions:
 
-***1***\. _Stakeholder Availability:_
+***1\. _Stakeholder Availability:_***
 
-\- Assumption: Stakeholders will be available for regular feedback and approval throughout the project.
+\- _Assumption_: Stakeholders will be available for regular feedback and approval throughout the project.
 
-\- Mitigation: Schedule regular check-in meetings and provide multiple channels for communication to ensure stakeholders are kept informed and involved.
-
-  
-
-***2***\. _Content Availability:_
-
-\- Assumption: Content, including written copy and multimedia assets, will be provided by NurtureHeal in a timely manner.
-
-\- Mitigation: Set clear deadlines for content submission and follow up with reminders to ensure timely delivery. Have a contingency plan in place for creating placeholder content if necessary.
+\- _Mitigation_: Schedule regular check-in meetings and provide multiple channels for communication to ensure stakeholders are kept informed and involved.
 
   
 
-***3***\. _Technical Constraints:_
+***2\. _Content Availability:_***
 
-\- Assumption: The hosting environment will meet the technical requirements for WordPress installation and development.
+\- _Assumption_: Content, including written copy and multimedia assets, will be provided by NurtureHeal in a timely manner.
 
-\- Mitigation: Conduct thorough testing on the hosting environment before proceeding with development. Work closely with hosting providers to address any issues that may arise.
+\- _Mitigation_: Set clear deadlines for content submission and follow up with reminders to ensure timely delivery. Have a contingency plan in place for creating placeholder content if necessary.
+
+  
+
+***3\. _Technical Constraints:_***
+
+\- _Assumption_: The hosting environment will meet the technical requirements for WordPress installation and development.
+
+\- _Mitigation_: Conduct thorough testing on the hosting environment before proceeding with development. Work closely with hosting providers to address any issues that may arise.
 
   
 
@@ -319,17 +319,17 @@ This agreement is based on the following assumptions:
 
   
 
-***1***\. _Change Request Submission:_
+***1\. _Change Request Submission:_***
 
 \- Any proposed changes to the project scope, timeline, or deliverables must be submitted as a formal change request.
 
   
 
-***2***\. _Assessment and Evaluation:_
+***2\. _Assessment and Evaluation:_***
 
 \- The project manager will assess the impact of the proposed change on the project objectives, schedule, and budget.
 
-***3***\. _Approval Process:_
+***3\. _Approval Process:_***
 
 \- Change requests will be reviewed by the project stakeholders to determine approval or rejection.
 
@@ -337,19 +337,19 @@ This agreement is based on the following assumptions:
 
   
 
-***4***\. _Documentation:_
+***4\. _Documentation:_***
 
 \- All approved changes will be documented, including the rationale behind the change, the impact on project parameters, and any associated adjustments to the project plan.
 
   
 
-***5***\. _Communication:_
+***5\. _Communication:_***
 
 \- Stakeholders will be kept informed of the status of change requests and any resulting adjustments to project timelines or deliverables.
 
   
 
-***6***\. _Continuous Monitoring:_
+***6\. _Continuous Monitoring:_***
 
 \- The project team will continuously monitor project progress and assess the need for any additional changes or adjustments as the project evolves.
 
