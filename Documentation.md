@@ -2,8 +2,6 @@
 
 # 👥 NurtureHeal
 
-_Insert your (if personal use)/ your company's details below._
-
 | **Company Name** | Nurture Heal |
 | ---| --- |
 | **Version** | 1.0 |
@@ -14,7 +12,6 @@ _Insert your (if personal use)/ your company's details below._
 
 # 📃Project Details
 
-_Insert the project details below._
 
 | **Project Name** | **Nurture Heal Website** |
 | ---| --- |
@@ -108,7 +105,6 @@ Phases include
 
 ## ℹ️ Project Scope
 
-_Provide details scope and delimitations of the project._
 
 The project scope of [**Nurtureheal.com**](http://Nurtureheal.com) is set out as follows:
 
@@ -127,7 +123,6 @@ _Add details of Website Design and Development such as the theme that will be th
 
 **PHASE 2: INFORMATION ARCHITECTURE**
 
-_Include a list of pages of the site and its features._
 
 [**Nurtureheal.com**](http://Nurtureheal.com) will include the pages and features detailed below.
 
@@ -140,7 +135,7 @@ _Include a list of pages of the site and its features._
 
 **PHASE 3: HOST AND DOMAIN SETUP**
 
-_Include any necessary hosting that will be located and set up for the chosen domain. After the project, the "company name" will be in charge of account maintenance._
+
 
 | **Potential Host** | **Pros** | **Cons** | **Cost** | **Notes** |
 | ---| ---| ---| ---| --- |
@@ -151,13 +146,12 @@ _Include any necessary hosting that will be located and set up for the chosen do
 
 ## ℹ️ Project Tasks
 
-_Provide detailed tasks required to achieve the scope as described._
 
   
 
 **TASK 1: SITE DESIGN AND CONTENT ENTRY**
 
-_Include content that will be placed on the site pages including text and pictures._
+
 
 **_Site Page_**
 
@@ -177,7 +171,7 @@ _Include content that will be placed on the site pages including text and pictur
 
 **TASK 2: INSTALLATION AND SETUP**
 
-_Include the CMS domain, installation process, and set up to maintain the site._
+
 
   
 
@@ -196,13 +190,11 @@ _To ensure that it functions with current desktop web browsers, the website will
 
 # 📑Deliverables, Components, & Requirements
 
-_List all deliverables that will be associated with this project._
 
   
 
 ## 📚Deliverables
 
-_Insert deliverables, components required, the person in charge, and its delivery schedule. You can add other deliverables aside from the ones listed below._
 
 | **Deliverables** | **Components** | **Person In-Charge** | **Delivery Schedule** |
 | ---| ---| ---| --- |
@@ -243,7 +235,7 @@ _Insert deliverables, components required, the person in charge, and its deliver
 
 ## 📚Points of Contact
 
-_Insert points of contact within the project and details for each point person. You can add as many point people as you want to the list below._
+
 
 | **Name** | **Department** | **Phone Number** | **Email** | **Notes** |
 | ---| ---| ---| ---| --- |
@@ -254,13 +246,12 @@ _Insert points of contact within the project and details for each point person. 
 
 # 📓Project Schedule and Milestones
 
-_Keep the project on track. Draft the schedule for this project below and its relevant stages. You can add more activities that you need to accomplish to complete the project._
 
   
 
 ## 📅Schedule
 
-_Insert activities that need to push through within the project and details for activity. You can add more activities that you need to accomplish to complete the project to the table below._
+
 
 | **Activity** | **Description** | **Person In-charge** | **Estimated Delivery Date** | **Notes** |
 | ---| ---| ---| ---| --- |
@@ -275,7 +266,7 @@ _Insert activities that need to push through within the project and details for 
 
 ## 📅Milestones
 
-_Insert milestones that need to push through within the project and details for each milestone. You can add more milestones that you need to accomplish to complete the project._
+
 
 | **Milestone Activity** | **Description** | **Person In-charge** | **Estimated Delivery Date** | **Notes** |
 | ---| ---| ---| ---| --- |
