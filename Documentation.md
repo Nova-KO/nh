@@ -5,7 +5,7 @@
 | **Company Name** | Nurture Heal |
 | ---| --- |
 | **Version** | 1.0 |
-| **Date to be Submitted** | 26-04-2000 |
+| **Date to be Submitted** | 26-04-2024 |
 | **Author** | Nafih Najeeb |
 
   
@@ -93,7 +93,7 @@ Phases include
 4. **Content Creation:**
     *   Develop engaging written and multimedia content.
 5. **Testing and Deployment:**
-    *   Conduct thorough testing and deploy website to production.
+    *   Conduct through testing and deploy website to production.
 6. **Training and Documentation:**
     *   Provide staff training and create maintenance documentation.
 7. **Launch and Support:**
@@ -240,7 +240,7 @@ _To ensure that it functions with current desktop web browsers, the website will
 | **Name** | **Department** | **Phone Number** | **Email** | **Notes** |
 | ---| ---| ---| ---| --- |
 | Nafih Najeeb | Tech | 7356992173 | [nafih@nurtureheal.com](http://ramya@nurtureheal.com) |  |
-| Ramya Sree |  | [ramya@nurtureheal.com](mailto:nafih@nurtureheal.com) |  |
+| Ramya Sree | Tech|6392152702 | [ramya@nurtureheal.com](mailto:nafih@nurtureheal.com) |  |
 
   
 
